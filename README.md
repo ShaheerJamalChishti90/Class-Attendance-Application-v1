@@ -135,5 +135,5 @@ For any inquiries regarding this project, please contact:
 
 **Muhamnmad Shaheer Jamal Chishti**
 
-* **Linktree:** [click me](linktr.ee/msjc.09)
+* **Linktree:** [click me](https://linktr.ee/msjc.09)
 * **Email:** [click me](shaheerjamal369@gmail.com)
