@@ -34,5 +34,19 @@ export const TEACHERS = [
     password: "Password123",
     className: "Grade 10",
     section: "A",
-  }
+  },
+  // === Grade 11 Teacher ===
+  {
+    username: "Mr. Salman",
+    password: "Password123",
+    className: "Grade 11",
+    section: "A",
+  },
+  // === Grade 12 Teacher ===
+  {
+    username: "Mr. Haider",
+    password: "Password123",
+    className: "Grade 12",
+    section: "A",
+  },
 ];

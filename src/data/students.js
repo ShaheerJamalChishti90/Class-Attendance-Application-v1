@@ -69,4 +69,31 @@ export const STUDENTS = {
     { id: "9", rollNo: "1009", name: "Muhammad Junaid Khan" },
     { id: "10", rollNo: "1010", name: "Iqra Aziz" },
   ],
+  // === Grade 11 (Single Section A) ===
+  "Grade 11": [
+    { id: "1", rollNo: "1001", name: "Muhammad Arsalan" },
+    { id: "2", rollNo: "1002", name: "Syeda Zunaira" },
+    { id: "3", rollNo: "1003", name: "Ahmed Ali Butt" },
+    { id: "4", rollNo: "1004", name: "Fatima Sana Shaikh" },
+    { id: "5", rollNo: "1005", name: "Muhammad Bilal" },
+    { id: "6", rollNo: "1006", name: "Areeba Habib" },
+    { id: "7", rollNo: "1007", name: "Sheheryar Munawar" },
+    { id: "8", rollNo: "1008", name: "Kubra Khan" },
+    { id: "9", rollNo: "1009", name: "Muhammad Junaid Khan" },
+    { id: "10", rollNo: "1010", name: "Iqra Aziz" },
+  ],
+
+  // === Grade 10 (Single Section A) ===
+  "Grade 12": [
+    { id: "1", rollNo: "1001", name: "Muhammad Arsalan" },
+    { id: "2", rollNo: "1002", name: "Syeda Zunaira" },
+    { id: "3", rollNo: "1003", name: "Ahmed Ali Butt" },
+    { id: "4", rollNo: "1004", name: "Fatima Sana Shaikh" },
+    { id: "5", rollNo: "1005", name: "Muhammad Bilal" },
+    { id: "6", rollNo: "1006", name: "Areeba Habib" },
+    { id: "7", rollNo: "1007", name: "Sheheryar Munawar" },
+    { id: "8", rollNo: "1008", name: "Kubra Khan" },
+    { id: "9", rollNo: "1009", name: "Muhammad Junaid Khan" },
+    { id: "10", rollNo: "1010", name: "Iqra Aziz" },
+  ],
 };
